@@ -41,10 +41,7 @@ print(Y_pred)
 plt.scatter(X,Y)
 plt.plot(X,Y_pred,color="red")
 plt.show()
-
 ```
-
-
 ## Output:
 <img width="731" height="633" alt="image" src="https://github.com/user-attachments/assets/1a225d96-8d67-42be-a074-2f0d46585d8a" />
 
